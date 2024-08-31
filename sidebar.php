@@ -29,7 +29,7 @@
                     <a href="#">Earning</a>
                 </li>
                 <li>
-                    <a href="#">Expensive</a>
+                    <a href="/expensive-portal/expensive.php">Expensive</a>
                 </li>
                 <li>
                     <a href="/expensive-portal/logout.php">Logout</a>
